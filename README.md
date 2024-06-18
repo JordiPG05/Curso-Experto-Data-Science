@@ -1,4 +1,6 @@
-# Curso Completo de PyTorch
+![CURSO EXPERTO](https://github.com/JordiPG05/Curso-PyTorch/assets/100807571/b43cc765-9530-442a-8470-019fa2e085cc)
+
+# Curso Completo de Data Science con PyTorch
 
 Bienvenido al curso completo de PyTorch. Este repositorio contendrá todos los materiales necesarios para aprender a utilizar PyTorch, desde conceptos básicos hasta técnicas avanzadas.
 
